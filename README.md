@@ -1,1 +1,5 @@
-# FrancoMoya_PGY3121_003D_Diurno
+Programación web | Sección: 003D | Diurno
+
+Integrante: Franco Moya
+
+Superuser: admin, admin
